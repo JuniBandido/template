@@ -1,2 +1,5 @@
 print("Hola mundo desde GitHub")
-print("Hola mundo 2")
+
+userName = input("Introduce tu nombre de usuario: ")
+
+password = int(input("Introdce tu contraseña: "))
